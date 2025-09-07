@@ -1,0 +1,14 @@
+UnityEngine.Networking.NetworkManager=>{fileID: -822479833, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+UnityEngine.Networking.NetworkIdentity=>{fileID: 372142912, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+UnityEngine.Networking.NetworkLobbyManager=>{fileID: -859942077, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+UnityEngine.Networking.NetworkMigrationManager=>{fileID: 1180575928, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+UnityEngine.Networking.NetworkStartPosition=>{fileID: -1050975500, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+UnityEngine.Networking.NetworkDiscovery=>{fileID: -1553936188, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+UnityEngine.Networking.NetworkAnimator=>{fileID: 1590678366, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+UnityEngine.Networking.NetworkProximityChecker=>{fileID: 1205285110, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+UnityEngine.Networking.NetworkLobbyPlayer=>{fileID: 246975512, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+UnityEngine.Networking.NetworkManagerHUD=>{fileID: 227461547, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+UnityEngine.Networking.NetworkTransformChild=>{fileID: -1267208747, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+UnityEngine.Networking.NetworkTransform=>{fileID: -1768714887, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+UnityEngine.Networking.NetworkBehaviour=>{fileID: -1355867648, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+UnityEngine.Networking.NetworkTransformVisualizer=>{fileID: -837897634, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
